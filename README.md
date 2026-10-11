@@ -19,7 +19,7 @@ I build production web applications from API design through deployment. I have 1
 - **Independent Fullstack Developer — AI Xàm Xí** · Jan 2026–Present
   Building software and AI solutions for businesses. Delivered **Wonos**, a production construction-management CRM with project, client, progress-tracking, and admin modules. [Wonos](https://wonos.vn)
 - **Fullstack Developer — Thiên Hà Group** · Apr–Jul 2026
-  Built realtime task-management and real-estate valuation platforms; integrated an AI task assistant and delivered Redis caching, upload validation, and CI/CD.
+  Built realtime task-management and real-estate valuation platforms; integrated an AI task assistant and delivered Redis caching, upload validation, and CI/CD. [Thiên Hà Group](https://thienhagroup.net) · [Task management](https://manage.thienhagroup.vn)
 - **Fullstack Developer — Bessfu** · Jan 2025–Mar 2026
   Worked on 3D web, business web, and AI products. Improved core API response time by **5×** on Stockland 3D Home Visualizer and helped ship OrameAI to the App Store.
 
